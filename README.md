@@ -8,8 +8,6 @@ This repository contains the implementation of a **Smart Agricultural Framework*
 
 1. **Soil Image Classification**: Classify soil images using deep learning (Modified DenseNet) to assess farmland quality.
 2. **Crop Recommendation**: Develop an automatic crop recommendation system using the Random Forest algorithm.
-3. **Leaf Disease Detection**: Implement a deep learning framework for detecting leaf diseases and assessing the extent of damage caused to crops.
-4. **Crop Yield Prediction**: Use deep learning to predict crop yields accurately.
 
 ---
 
